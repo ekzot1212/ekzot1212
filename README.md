@@ -1,3 +1,6 @@
+## GitHub Status
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekzot1212&show_icons=true&theme=dracula)
+
 ## Algorithm
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lch0005)](https://solved.ac/lch0005)
 
